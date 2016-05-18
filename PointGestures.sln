@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0B078475-CE1A-7D61-5825-769DB7EED410}") = "PointGestures", "Assembly-CSharp-firstpass.csproj", "{9018B54E-4AE1-328C-3C93-126497B8BE80}"
+EndProject
+Project("{0B078475-CE1A-7D61-5825-769DB7EED410}") = "PointGestures", "Assembly-CSharp.csproj", "{71360315-1E35-F2E3-D013-36B381DB7138}"
+EndProject
+Project("{0B078475-CE1A-7D61-5825-769DB7EED410}") = "PointGestures", "Assembly-CSharp-Editor-firstpass.csproj", "{B36009F9-58C2-F945-B942-7C5A20773881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9018B54E-4AE1-328C-3C93-126497B8BE80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9018B54E-4AE1-328C-3C93-126497B8BE80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9018B54E-4AE1-328C-3C93-126497B8BE80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9018B54E-4AE1-328C-3C93-126497B8BE80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71360315-1E35-F2E3-D013-36B381DB7138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71360315-1E35-F2E3-D013-36B381DB7138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71360315-1E35-F2E3-D013-36B381DB7138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71360315-1E35-F2E3-D013-36B381DB7138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36009F9-58C2-F945-B942-7C5A20773881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36009F9-58C2-F945-B942-7C5A20773881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36009F9-58C2-F945-B942-7C5A20773881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36009F9-58C2-F945-B942-7C5A20773881}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
